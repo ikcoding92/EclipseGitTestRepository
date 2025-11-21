@@ -8,7 +8,7 @@ public class EclipseGitTestController {
 	
 	@GetMapping(value = "/sample")
 	public String method() {
-		return "Test Text Byebye";
+		return "Test Text Byebye(sekioka)";
 	}
 
 }
